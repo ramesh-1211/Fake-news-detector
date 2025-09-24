@@ -34,7 +34,7 @@ Installation
 To run this project, you'll need to set up the environment with the required dependencies.
 
 1. Clone the repository:
-git clone https://github.com/your-username/Fake-News-Detection.git
+git clone https://github.com/ramesh-1211/Fake-News-Detection.git
 cd Fake-News-Detection
 
 2. Install required libraries:
