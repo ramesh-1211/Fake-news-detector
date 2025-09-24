@@ -35,6 +35,7 @@ To run this project, you'll need to set up the environment with the required dep
 
 1. Clone the repository:
 git clone https://github.com/ramesh-1211/Fake-News-Detection.git
+
 cd Fake-News-Detection
 
 2. Install required libraries:
